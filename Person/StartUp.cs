@@ -6,7 +6,7 @@
         static void Main(string[] args)
         {
             string name = Console.ReadLine();
-            int age = int.Parse(Console.ReadLine());
+            long age = long.Parse(Console.ReadLine());
 
             try
             {

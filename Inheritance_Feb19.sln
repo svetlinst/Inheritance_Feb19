@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomStack", "CustomStack\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{9E01E9E0-67F0-4893-810E-37C8E2539743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{520B6E39-BF7B-4996-996B-FDBFFF80A794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShop", "BookShop\BookShop.csproj", "{520B6E39-BF7B-4996-996B-FDBFFF80A794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mankind", "Mankind\Mankind.csproj", "{47E63668-D1B9-4ACC-BA65-CF29465D8333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mankind", "Mankind\Mankind.csproj", "{47E63668-D1B9-4ACC-BA65-CF29465D8333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadioDatabase", "OnlineRadioDatabase\OnlineRadioDatabase.csproj", "{6EAA2E53-DF07-4D3D-A323-B3F67AD41B74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{47E63668-D1B9-4ACC-BA65-CF29465D8333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E63668-D1B9-4ACC-BA65-CF29465D8333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E63668-D1B9-4ACC-BA65-CF29465D8333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAA2E53-DF07-4D3D-A323-B3F67AD41B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAA2E53-DF07-4D3D-A323-B3F67AD41B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAA2E53-DF07-4D3D-A323-B3F67AD41B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAA2E53-DF07-4D3D-A323-B3F67AD41B74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

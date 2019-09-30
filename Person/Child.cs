@@ -3,12 +3,12 @@
     using System;
     public class Child : Person
     {
-        public Child(string name, int age) : base(name, age)
+        public Child(string name, long age) : base(name, age)
         {
 
         }
 
-        public override int Age
+        public override long Age
         {
             get => base.Age;
             protected set

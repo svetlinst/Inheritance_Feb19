@@ -7,9 +7,9 @@
     public class Person
     {
         private string name;
-        private int age;
+        private long age;
 
-        public virtual int Age
+        public virtual long Age
         {
             get => this.age;
             protected set
@@ -35,7 +35,7 @@
             }
         }
 
-        public Person(string name, int age)
+        public Person(string name, long age)
         {
             this.Name = name;
             this.Age = age;
